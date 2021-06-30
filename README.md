@@ -11,13 +11,11 @@ Extracting some data characteristics from a data set like:
 - Geometric Mean
 - Harmonic Mean
 
----
 
 ## Screenshots
 
 ![](https://i.imgur.com/7CViSQc.png)
 
----
 
 ## Installation
 
