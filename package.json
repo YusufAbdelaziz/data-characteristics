@@ -1,0 +1,16 @@
+{
+  "name": "dm-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "csv-parse": "^4.16.0",
+    "mathjs": "^9.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yusuf Abdelaziz",
+  "license": "MIT"
+}
